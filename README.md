@@ -14,6 +14,6 @@ Features:
 5. Languages: HTML, CSS and JavaScript languages is used here. Building website like this gives a great experience to learn those languages.
 
 ![Panel 1](https://github.com/Gauri123412/Portfolio/blob/main/Screenshot%20(3294).png)
-![Panel 2](https://github.com/Gauri123412/Portfolio/blob/main/Screenshot%20(3295).png)
+![Panel 2](https://github.com/Gauri123412/Portfolio/blob/main/Screenshot%20(3296).png)
 
    
